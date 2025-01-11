@@ -1,6 +1,3 @@
-# myprofessional_statement
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
